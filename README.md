@@ -22,4 +22,4 @@ I utilized various types of constraints to enforce data integrity and ensure adh
 To streamline operations and enhance functionality, I created stored procedures for the required functions within the system. These procedures facilitate tasks such as book issuance, return, fine calculation, and generating reports.
 
 ## Database Model
-You can view the database model depicting the tables and their connections [Model](LMS.jpg).
+You can view the database model depicting the tables and their connections ![Model](LMS.jpg).
